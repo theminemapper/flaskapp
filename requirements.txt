@@ -2,3 +2,4 @@ flask
 rasterio
 gunicorn
 numpy
+flask-cors
